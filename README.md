@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**belmironeto/belmironeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a System Administrator. I hava a degree in Computer Science and I'm currently doing an MBA in Cloud & Devops to further some skills.
+</p>
+<a  href="https://github.com/belmironeto">
+  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=belmironeto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmironeto&layout=compact&langs_count=7&theme=blue-green" />
+</a>
 
-Here are some ideas to get you started:
+I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Computing
+- SRE | DevOps
+- Linux
+- System Architecture
+- Continuous Integration / Continuos Delivery
+- Ansible
+- Container
+- Kubernetes
+
+I'm working in some certifications like:
+
+1. GitLab
+2. Azure AZ 900
+3. CKA (Certified Kubernetees Administrator) 
+4. AWS Fundations
+
+Feel free to contact-me on my [Linkedin Page](https://www.linkedin.com/in/belmiro-neto/)
