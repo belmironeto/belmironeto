@@ -3,8 +3,8 @@
 I'm a System Administrator. I hava a degree in Computer Science and I'm currently doing an MBA in Cloud & Devops to further some skills.
 </p>
 <a  href="https://github.com/belmironeto">
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=belmironeto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmironeto&layout=compact&langs_count=7&theme=blue-green" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=belmironeto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmironeto&layout=compact&langs_count=7&theme=blue-green" />
 </a>
 
 I'm interested in:
